@@ -72,7 +72,7 @@ Validation should block submissions with whitespace-only values in required fiel
 
 ## 📄 Download Full Report
 
-➡️ [Download Styled Bug Report PDF](./Styled_Bug_Report_Portfolio_Sam_Lopez.pdf)
+➡️ [Download Bug Report WORD](Bug Reports - Sam Lopez.docx)
 
 ---
 
