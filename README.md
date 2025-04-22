@@ -1,6 +1,6 @@
 # 📂 QA Portfolio – Sample Test Artifacts
 
-Welcome to my QA portfolio! This repository gathers **sample test artifacts** I produced while testing **multiple web applications**, including—but not limited to—the **Buggy Cars Rating** site.
+Welcome to my QA portfolio! This repository gathers **sample test artifacts** from different web apps
 
 ---
 
@@ -13,24 +13,21 @@ Welcome to my QA portfolio! This repository gathers **sample test artifacts** I 
 | **Bug Report** | Consolidated defect logs with evidence 
 
 ---
+## Sample Bug Report
+<p align="left">
+  <img src="Test Cases/Test Cases.png" width="600" alt="Bug Report" />
+</p>
 
-## 🔍 Featured Sample – Buggy Cars Rating
+    
+## Sample Test Cases
+<p align="left">
+  <img src="Test Cases/Test Cases.png" width="600" alt="Test Cases" />
+</p>
 
-* **Artifact type:** Bug report (Word docx)
-* **Bugs logged:** 16 (functional, validation, UI, navigation)
-* **Date:** April 15 2025
-* **Download:** [Bug‑Reports - Sam Lopez.docx](https://github.com/smplpz21/qa-portfolio-documentation/blob/196ecd67043c2e968affc2cf82dc8a6ce66c5c36/Bug%20Report/Bug%20Reports%20-%20Sam%20Lopez.docx)
-
----
-
-## 🔧 Tools & Tech
-
-| Category | Stack |
-|----------|-------|
-| **Reporting** | Word, Excel |
-| **Collaboration** | GitHub Projects & Issues |
-
----
+## Sample Test Plan
+<p align="left">
+  <img src="Test Plan/Test Plan.png" width="600" alt="Test Plan" />
+</p>
 
 ## 👤 About Me
 
