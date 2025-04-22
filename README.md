@@ -73,7 +73,7 @@ Validation should block submissions with whitespace-only values in required fiel
 ## 📄 Download Full Report
 
 ➡️ [Download Bug Report WORD](https://github.com/smplpz21/Bug-Report-Sample/blob/a24dba71514f8f4bd4431f404ba53442c53c4a6b/Bug%20Reports%20-%20Sam%20Lopez.docx)
-
+![Bug Screenshot](https://github.com/smplpz21/Bug-Report-Sample/blob/2eb50f363a7cdc20ae278f87071e00e2a0e68da0/Bug%20Report.PNG)
 ---
 
 ## 🧰 Tools Used
@@ -81,8 +81,6 @@ Validation should block submissions with whitespace-only values in required fiel
 - Manual Web Testing  
 - Google Chrome (Dev Tools)  
 - Screen Recorder for Bug Evidence  
-- FPDF for PDF Report Styling  
-- Markdown for GitHub Documentation  
 
 ---
 
@@ -90,5 +88,5 @@ Validation should block submissions with whitespace-only values in required fiel
 
 **Sam Lopez**  
 QA Automation Engineer | Manual & Automated Testing  
-[LinkedIn](#) | [GitHub](#)
+[GitHub](#)
 
