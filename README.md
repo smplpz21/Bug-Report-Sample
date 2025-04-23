@@ -15,7 +15,7 @@ Welcome to my QA portfolio! This repository gathers **sample test artifacts** fr
 ---
 ## Sample Bug Report
 <p align="left">
-  <img src="Test Cases/Test Cases.png" width="600" alt="Bug Report" />
+  <img src="Bug Report/Bug Report.PNG" width="600" alt="Bug Report" />
 </p>
 
     
