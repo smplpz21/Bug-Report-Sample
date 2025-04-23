@@ -35,7 +35,7 @@ Welcome to my QA portfolio! This repository gathers **sample test artifacts** fr
 
 - Manual & Automated Testing (UI / API)
 - Playwright • Selenium Webdriver • Postman
-- Get in touch: [LinkedIn](#) • [GitHub](#)
+- Get in touch: smplpz21@gmail.com
 
 ---
 
